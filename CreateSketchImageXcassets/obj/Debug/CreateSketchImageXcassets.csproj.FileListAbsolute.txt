@@ -5,3 +5,4 @@ C:\Users\matt\Documents\Development\CreateSketchImageXcassets\CreateSketchImageX
 C:\Users\matt\Documents\Development\CreateSketchImageXcassets\CreateSketchImageXcassets\obj\Debug\CreateSketchImageXcassets.exe
 C:\Users\matt\Documents\Development\CreateSketchImageXcassets\CreateSketchImageXcassets\obj\Debug\CreateSketchImageXcassets.pdb
 C:\Users\matt\Documents\Development\CreateSketchImageXcassets\CreateSketchImageXcassets\bin\Debug\Contents.json
+C:\Users\matt\Documents\Development\CreateSketchImageXcassets\CreateSketchImageXcassets\bin\Debug\ImageProcessor.dll
